@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/razmac2018/12345/_apis/build/status/Azure-2019.pipelines-java?branchName=master)](https://dev.azure.com/razmac2018/12345/_build/latest?definitionId=7&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
